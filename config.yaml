@@ -5,7 +5,7 @@ pygmentsstyle: 'monokai'
 
 
 # Theme settings
-theme: test
+theme: custom
 paginate: 6
 social:
   twitter: "#"
