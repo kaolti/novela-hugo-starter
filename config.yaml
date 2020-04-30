@@ -5,7 +5,7 @@ pygmentsstyle: 'monokai'
 
 
 # Theme settings
-theme: novela
+theme: BASSZAMEGAZISTEN
 paginate: 6
 social:
   twitter: "#"
