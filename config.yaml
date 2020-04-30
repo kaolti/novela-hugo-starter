@@ -5,7 +5,7 @@ pygmentsstyle: 'monokai'
 
 
 # Theme settings
-theme: BASSZAMEGAZISTEN
+theme: test
 paginate: 6
 social:
   twitter: "#"
